@@ -33,3 +33,4 @@ public partial class MainWindow : Window
    }
    B1.IsEnabled = true;
   }
+}

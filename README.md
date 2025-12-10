@@ -1,4 +1,7 @@
-
+public MainWindow()
+        {
+            InitializeComponent();
+        }
 int a;
 string b;
 private void B1_Click(object sender, RoutedEventArgs e)

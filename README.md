@@ -1,5 +1,4 @@
-# -
-Регулятор громкости от 0 до 10.
+
 int a;
 string b;
 private void B1_Click(object sender, RoutedEventArgs e)

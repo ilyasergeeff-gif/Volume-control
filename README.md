@@ -23,8 +23,8 @@ namespace WpfApp1
          {
              InitializeComponent();
          }
-   int a;
-   string b;
+   int numb;
+   string wrd;
    private void B1_Click(object sender, RoutedEventArgs e)
    {
     a = Convert.ToInt32(T1.Text);

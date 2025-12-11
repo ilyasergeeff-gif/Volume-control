@@ -41,11 +41,11 @@ namespace WpfApp1
 
    private void B2_Click(object sender, RoutedEventArgs e)
     {
-    a = Convert.ToInt32(T1.Text);
-    a -= 1;
-    b = Convert.ToString(a);
-    T1.Text = b;
-    if (a == 0)
+    numb = Convert.ToInt32(T1.Text);
+    numb -= 1;
+    b = Convert.ToString(numb);
+    T1.Text = wrd;
+    if (numb == 0)
      {
       B2.IsEnabled = false       
      }

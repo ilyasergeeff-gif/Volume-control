@@ -1,5 +1,5 @@
 
-namespace WpfApp1
+
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
